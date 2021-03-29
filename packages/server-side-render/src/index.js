@@ -51,3 +51,4 @@ if ( window && window.wp && window.wp.components ) {
 }
 
 export default ExportedServerSideRender;
+export { ExportedServerSideRender as ServerSideRender };
